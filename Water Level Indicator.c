@@ -58,6 +58,6 @@ void loop()
         digitalWrite(2, LOW);
         digitalWrite(3, LOW);
         digitalWrite(4, LOW);
-        delay(100) // Small delay to prevent fast toggling
+        delay(100); // Small delay to prevent fast toggling
     }
 }
